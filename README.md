@@ -28,7 +28,7 @@ jobs:
 
     - name: Display version
       run: |
-        VERSION=$(echo "${{ steps.get_version.outputs.version }}")
+        VERSION=$(echo "${{ steps.get_version.outputs.tag }}")
         echo $VERSION
 ```
 
