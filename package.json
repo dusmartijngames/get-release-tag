@@ -24,6 +24,6 @@
     "@octokit/webhooks-definitions": "^3.67.3"
   },
   "devDependencies": {
-    "typescript": "^5.2.2"
+    "typescript": "^5.3.3"
   }
 }
